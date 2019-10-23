@@ -10,6 +10,7 @@
         "shims.d.ts",
         "enums.d.ts",
         "ir.cpp",
+        "ir.ts",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
