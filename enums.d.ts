@@ -47,7 +47,7 @@
 	  NUM8 = 0x52,
 	  NUM9 = 0x4A,
     }
-declare namespace Mbit_IR {
+declare namespace OSOYOO_IR {
 }
 
 // Auto-generated. Do not edit. Really.
